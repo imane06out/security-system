@@ -1,0 +1,8 @@
+.env
+authorized/*
+!authorized/.gitkeep
+capture.jpg
+__pycache__/
+*.pyc
+venv/
+*.whl
